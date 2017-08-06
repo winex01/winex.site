@@ -1,0 +1,87 @@
+body{
+	font-family:  "courier new","Times New Roman", Tahoma;
+}
+.text-white{
+	color: #ffffff;
+}
+.text-black{
+	color: #000;
+}
+.bg-white{
+	border: 1px solid red;
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+/*
+*@page:about;
+*/
+.about-buttons{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.btn-1{
+	border: 1px solid black;
+	background-color: #f23232;
+	color: #ffffff;
+}
+.btn-1:hover{
+	background-color: #332d2d;
+	color: #ffffff;
+}
+.btn-2{
+	border: 2px solid black;
+}
+.btn-2:hover{
+	color: #ffffff;
+	background-color: #332d2d;
+}
+.about-head{
+	text-align: center;
+}
+.main-title{
+	font-size: 25px;
+	color: #c90404;
+	font-weight: bold;
+}
+.sub-title{
+	color: #f23232;
+}
+.sub-container ul li{
+	list-style-type: none;
+	margin-left: -40px;
+}
+.align-right{
+	text-align: right;
+}
+
+.section{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	/*margin-left: -40px;*/
+}
+
+.award{
+	color: #333b47;
+}
+
+.place{
+	opacity: .5;
+}
+.date-r{
+	opacity: .7;
+}
+.page-title{
+	color: #333b47;	
+}
+
+.right-title{
+	color: #c90404;	
+}
+
+/*
+*right section sa about
+*/
+.right-section{
+	margin-left: -40px;
+}
